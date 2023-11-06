@@ -11,7 +11,7 @@
 
 ## Control
 
-Up Arrow: Move the snake up.
-Down Arrow: Move the snake down.
-Left Arrow: Move the snake to the left.
-Right Arrow: Move the snake to the right.
+\nUp Arrow: Move the snake up.
+\nDown Arrow: Move the snake down.
+\nLeft Arrow: Move the snake to the left.
+\nRight Arrow: Move the snake to the right.
