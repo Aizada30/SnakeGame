@@ -6,8 +6,9 @@
 ## Installation Instructions
 
 1. Clone the repository: `git clone https://github.com/Aizada30/SnakeGame.git`
+![image](https://github.com/Aizada30/SnakeGame/assets/131680193/47e337f2-ac92-4b2d-b53a-c93aa83fcfd2)
 2. Install dependencies (if any): `npm install`
-3. Run the game: `java SnakeGame.java`
+4. Run the game: `java SnakeGame.java`
 
 ## Control
 
